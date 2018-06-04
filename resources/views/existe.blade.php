@@ -1,0 +1,1 @@
+<p>Enhorabuena, tus vacaciones están apuntadas.</p>
